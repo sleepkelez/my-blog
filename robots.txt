@@ -1,0 +1,4 @@
+User-agent:*
+Disallow:
+
+Sitemap: https://sleepkelez.github.io/my-blog/my-blog/sitemap.xml
